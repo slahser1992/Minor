@@ -1,0 +1,2225 @@
+{"message":"-----Wed Dec 30 2020 17:34:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:34:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:35:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: wrong password.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:10 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:16 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: wrong password.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:27 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: wrong password.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:31 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: wrong password.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:35 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: wrong password.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:36:49 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: this user is not found.-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:37:46 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 17:38:02 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 19:16:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 19:16:47 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 19:32:30 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 19:36:39 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 19:58:48 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:03:55 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:05:10 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:06:21 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:06:59 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:08:02 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:15:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:18:22 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:27:45 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:32:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:36:34 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Dec 30 2020 20:54:40 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 10:49:44 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 10:50:28 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 10:59:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:08:37 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:09:39 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:15:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:19:15 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:30:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:32:32 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:34:53 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:35:24 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:36:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:37:19 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:39:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 11:52:05 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 14:58:18 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 14:59:17 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 14:59:19 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:04:30 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:04:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:05:01 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:19:24 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:26:27 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 15:32:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 16:08:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Thu Dec 31 2020 16:08:23 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Mon Jan 04 2021 14:11:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:11:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:11:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:11:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:30:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:30:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:37:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:37:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:49:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:49:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:54:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:54:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:56:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 14:56:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:21:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:21:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:22:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:22:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:26:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:26:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:29:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:29:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:30:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:30:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:31:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:31:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:46:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:46:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:52:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 15:52:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:00:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:01:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:01:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:26:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:26:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:26:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:26:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:30:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:30:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:31:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 16:31:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 18:00:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 18:00:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 19:33:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 19:33:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 19:58:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 19:58:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:02:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:02:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:03:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:03:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:04:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:04:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:33:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:33:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:37:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:37:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:38:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:38:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:38:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Mon Jan 04 2021 20:54:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 20:54:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 21:01:21 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Mon Jan 04 2021 21:01:22 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Mon Jan 04 2021 21:07:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 21:07:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 04 2021 21:08:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 04 2021 21:08:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 05 2021 10:21:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 05 2021 10:21:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 05 2021 10:21:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 05 2021 10:21:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 05 2021 12:02:39 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 05 2021 12:02:49 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Tue Jan 05 2021 12:02:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 19:58:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 19:58:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 19:58:22 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 19:58:36 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: this user is not found.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 19:58:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: this user is not found.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:00:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: this user is not found.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:00:45 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: this user is not found.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:05:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:05:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:05:17 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,author-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.author.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:06:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:06:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:06:35 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,author-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.author.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:07:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,author-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.author.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:08:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:08:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:08:11 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,author-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.author.-----","level":"error"}
+{"message":"-----Wed Jan 06 2021 20:30:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:30:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:31:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:31:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:33:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:33:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:36:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:36:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:38:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:38:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:40:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:40:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:57:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:57:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:58:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 20:58:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 21:00:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 21:00:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 21:03:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 06 2021 21:03:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 06 2021 21:03:22 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssay.-----","level":"error"}
+{"message":"-----Thu Jan 07 2021 10:43:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 10:43:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:13:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:13:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:24:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:24:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:24:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:24:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:27:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:27:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:27:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:27:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:29:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:29:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:37:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:37:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:38:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 11:38:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 20:30:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 20:30:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 07 2021 20:37:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 07 2021 20:37:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 16:45:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 16:45:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:05:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:05:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:06:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:06:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:07:12 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:07:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:08:03 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:08:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:08:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:08:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:09:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:09:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:09:31 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:13:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:13:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:14:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 20:18:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:18:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:29:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:29:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 20:59:55 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 21:00:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:00:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:02:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:02:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:03:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:03:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:03:16 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 21:03:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:03:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:03:55 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 21:05:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:05:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:05:21 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.id.-----","level":"error"}
+{"message":"-----Fri Jan 08 2021 21:11:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:11:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 08 2021 21:11:26 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 20:59:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 20:59:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:06:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:06:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:10:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:10:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:17:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:17:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:19:05 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:20:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:20:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:20:16 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:21:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:21:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:22:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:22:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:23:23 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:23:34 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:23:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:23:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:23:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:24:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:24:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:25:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:25:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:25:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:27:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:27:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:27:03 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:27:36 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:27:36 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:27:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:27:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:27:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:30:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:33:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:33:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:33:46 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:34:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:34:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:34:56 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:35:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:35:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:35:34 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Mon Jan 11 2021 21:36:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:36:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:37:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:37:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:38:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:38:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:45:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:45:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Mon Jan 11 2021 21:45:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:20:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:20:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:34:37 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:35:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.id.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:35:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:35:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:35:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:40:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:40:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:40:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:45:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:45:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:58:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 16:59:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 16:59:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:00:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:00:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:00:10 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:00:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:00:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:00:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:00:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:07:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:07:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:07:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:08:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:08:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:08:27 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: document must have an _id before saving-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:08:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:08:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:09:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:09:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:09:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:09:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:09:27 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: {\"gender\":1,\"essay\":[],\"_id\":\"5ffd674727a90f23fca96531\",\"name\":\"zourenli321\",\"password\":\"$2b$10$yNKZ/biLs6QtbM8yd0CROuMstlVGz1Oo6IjOStPOkRpliR82uZplW\",\"age\":19,\"email\":\"zourenli@gmail.com\",\"__v\":0}-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:27:23 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:27:30 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: {\"gender\":1,\"essay\":[],\"_id\":\"5ffd6b8227a90f23fca96532\",\"name\":\"zourenli123\",\"password\":\"$2b$10$jZJDSomWbr4TsIWxBoXZ/.kWcCgn/fFbEajjkuSoCe7M9W9i3oTKO\",\"age\":19,\"email\":\"zourenli@gmail.com\",\"__v\":0}-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:31:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:31:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:33:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:33:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:34:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:34:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:34:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: {\"_id\":\"5ffd6d3363f608288f1cd627\",\"title\":\"abcd\",\"content\":\"abcd\",\"author\":\"5fe5b198f181f4d057a0ff96\",\"__v\":0}-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:35:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: {\"_id\":\"5ffd6d7863f608288f1cd628\",\"title\":\"abcd\",\"content\":\"abcd\",\"author\":\"5fe5b198f181f4d057a0ff96\",\"__v\":0}-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 17:40:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:40:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:44:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:44:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:55:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 17:55:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:22:26 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: {\"_id\":\"5ffd867221e8282b19b87391\",\"title\":\"abcd\",\"content\":\"abcd\",\"author\":\"5fe5b198f181f4d057a0ff96\",\"__v\":0}-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:22:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:22:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:22:54 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:23:00 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.id.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:25:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:25:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:25:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:26:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:27:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:27:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:27:23 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:32:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:32:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:32:10 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:35:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:35:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:35:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:35:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:36:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:36:16 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:36:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:36:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:36:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:36:51 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:36:59 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:38:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:38:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:38:49 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:39:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:39:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:39:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:40:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:40:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:40:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:41:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:41:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:41:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:42:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:42:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:42:59 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:44:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:44:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:44:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:44:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:44:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,email-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.email.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:50:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:50:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:50:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.id.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:51:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:51:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:51:46 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 19:55:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:55:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:55:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:55:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:55:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:55:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:56:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 19:56:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:01:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:01:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:06:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:06:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:10:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:10:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:12:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:12:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:18:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:18:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:25:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:25:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:32:22 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Unknown argument \"id\" on field \"Query.findEssayAuthor\".-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:33:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:33:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:36:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:36:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:36:26 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Variable \"$id\" of required type \"String!\" was not provided.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:41:19 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:41:54 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:42:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:42:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:15 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:18 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:25 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"1234444\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:42:31 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"1234444\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:43:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:43:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:43:05 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"1234444\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:43:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:44:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:44:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:45:02 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:45:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:45:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:45:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:45:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:45:26 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Tue Jan 12 2021 20:53:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 12 2021 20:53:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 10:39:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 10:45:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 10:45:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:12:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:12:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:17:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:17:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:18:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:18:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:18:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:18:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:19:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:22:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:22:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:22:59 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:18 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9e\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:19 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9e\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9e\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:32 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9e\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9e\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:23:38 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:24:00 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9r\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:24:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:24:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:24:53 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9r\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:24:54 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9r\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:25:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:25:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:25:17 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cast to ObjectId failed for value \"5ffd9216419811397a45b8d9r\" at path \"_id\" for model \"Essay\"-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:26:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:26:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:27:00 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:27:28 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:28:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:28:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:50:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:50:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:50:30 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:51:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:51:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:51:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 11:53:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:53:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 11:53:25 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,age-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.age.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 12:00:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 12:00:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 12:00:17 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor,id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.id.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 12:01:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 12:01:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 12:02:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 12:02:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:12:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:12:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:12:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:12:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:12:51 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"id\" on type \"User\". Did you mean \"_id\"?-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:12:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:13:07 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:13:13 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"id\" on type \"User\". Did you mean \"_id\"?-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:15:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:15:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:17:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:17:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:17:47 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:19:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:19:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:19:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:19:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:19:21 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:20:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:20:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:20:38 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:20:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:20:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:21:01 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:21:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:21:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:21:53 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: loginUser,name-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.name.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:22:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:22:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:22:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:22:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:22:25 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"id\" on type \"User\". Did you mean \"_id\"?-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:22:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile,_id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User._id.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:23:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:23:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:23:25 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile,_id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User._id.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:24:36 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:24:36 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:24:38 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile,_id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User._id.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:24:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile,_id-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User._id.-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 14:34:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:34:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:34:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 14:34:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 16:17:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 16:17:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 16:18:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 16:18:12 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 19:58:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 19:58:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:46:48 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: Argument Validation Error-----","level":"error"}
+{"message":"-----Wed Jan 13 2021 20:57:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:57:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:58:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:58:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:58:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:58:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:59:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 13 2021 20:59:50 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 16:50:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 16:50:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:52:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:52:19 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:52:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"postTime\" on type \"Essay\".-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 19:52:54 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"postTime\" on type \"Essay\".-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 19:53:34 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Cannot query field \"postTime\" on type \"Essay\".-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 19:54:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:54:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:54:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 19:54:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:39:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:39:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:39:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:39:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:41:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:41:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:41:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:41:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:42:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:42:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:47:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:47:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:47:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:47:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:48:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:48:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:49:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:49:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:52:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:52:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:55:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:55:06 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:58:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 20:58:47 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:12:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:12:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:20:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:20:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:23:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:23:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:23:58 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Field \"author\" must not have a selection since type \"String!\" has no subfields.-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 21:24:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Field \"author\" must not have a selection since type \"String!\" has no subfields.-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 21:24:47 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,author-----","level":"error"}
+{"message":"-----[error]: String cannot represent value: { gender: 1, essay: [Array], _id: [ObjectID], name: \"zourenli\", password: \"$2b$10$KRZIMiwthjGYBwOLfF9g3OoRmLzs1lONo2Us1.LUAQ6i4XUQsHLIO\", age: 23, email: \"dsadsa@google.com\" }-----","level":"error"}
+{"message":"-----Thu Jan 14 2021 21:25:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:25:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 14 2021 21:25:45 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Field \"author\" of type \"User!\" must have a selection of subfields. Did you mean \"author { ... }\"?-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:16:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:16:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:16:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:16:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:17:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:17:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:18:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:18:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:25:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:25:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:26:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:26:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:27:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,author,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:28:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:28:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:28:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:29:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findAllUser,0,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:39:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:39:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:41:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:41:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:41:32 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findAllUser,0,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:44:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:44:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:44:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findAllUser,0,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:46:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:46:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:49:32 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:49:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:49:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:49:55 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.fullname.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:50:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:12 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:50:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:44 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:44 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:50:45 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.fullname.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:52:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.fullname.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:53:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:53:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:53:11 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser,fullname-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field User.fullname.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:53:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:53:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:56:44 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:56:44 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:56:51 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:57:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:57:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:22 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:24 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:47 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:49 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:50 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:55 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:55 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:58:56 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:57 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:58:58 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 11:59:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 11:59:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:00:40 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:41 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:42 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:00:44 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findUser-----","level":"error"}
+{"message":"-----[error]: Cannot read property 'name' of undefined-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 12:02:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:02:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:03:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:03:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:10:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 12:10:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 13:51:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 13:51:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:12:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:12:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:21:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:21:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:22:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:22:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:28:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:28:02 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:30:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:30:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:32:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:32:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:54:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:54:24 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:56:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:56:11 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:57:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:57:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:57:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:57:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:58:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 17:58:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 18:02:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 18:02:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:21:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:21:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:29:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:29:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:29:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:29:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:31:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:31:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:31:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:31:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:32:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:32:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:34:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:34:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:34:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:34:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:54:46 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: Essay validation failed: description: Path `description` is required.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 20:54:58 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: postEssay-----","level":"error"}
+{"message":"-----[error]: Essay validation failed: description: Path `description` is required.-----","level":"error"}
+{"message":"-----Fri Jan 15 2021 20:57:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:57:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:57:55 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 20:57:55 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:04:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:04:08 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:04:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:04:18 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:06:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:06:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:06:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 15 2021 21:06:41 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Sat Jan 16 2021 11:46:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Sat Jan 16 2021 11:46:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Sat Jan 16 2021 11:57:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Sat Jan 16 2021 11:57:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Sat Jan 16 2021 13:20:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Sat Jan 16 2021 13:20:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 15:27:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 15:27:52 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 15:44:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 15:45:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: profile-----","level":"error"}
+{"message":"-----[error]: You must be logged in!-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 15:46:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 15:46:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 15:57:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 15:57:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:10:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:10:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:18:37 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:18:37 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:22:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 16:22:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 19:10:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 19:10:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:00:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:00:03 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:00:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:00:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:02:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:02:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:03:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:03:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:03:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:03:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:05:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:05:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:06:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:06:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:09:14 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Unknown argument \"id\" on field \"Query.findOneEssay\".-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:10:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:10:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:10:04 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Variable \"$id\" of type \"String\" used in position expecting type \"String!\".-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:10:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:11:02 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssayAuthor-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Query.findEssayAuthor.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:11:33 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:11:35 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:13:10 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:13:17 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:13:45 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:13:46 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:13:47 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:14:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:18 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:14:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:14:59 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Tue Jan 19 2021 20:16:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:16:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:16:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:16:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:17:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:17:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:17:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:17:43 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:18:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:18:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:18:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:18:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:19:42 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:20:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:20:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:21:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:21:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:21:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:21:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:27:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Tue Jan 19 2021 20:27:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 10:48:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 10:48:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 10:50:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 10:50:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:19:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:19:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:21:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:21:01 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:28:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:28:46 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:34:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:34:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:36:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:36:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:40:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:40:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:41:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:41:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:52:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 11:52:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 16:46:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 16:46:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:39:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:39:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:40:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:40:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:42:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:42:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:42:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:42:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:43:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:43:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:43:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:43:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:44:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:44:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:45:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:45:10 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:47:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 17:47:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:16:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:16:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:17:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:17:29 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:18:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:19:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:19:14 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:19:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:19:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:24:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Wed Jan 20 2021 20:24:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:53:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:53:30 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:54:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:54:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:55:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:55:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 13:58:20 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: createUser-----","level":"error"}
+{"message":"-----[error]: The user name has been used.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 14:09:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:09:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:09:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:09:28 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:10:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:10:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:17:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:17:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:18:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:18:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:18:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:18:48 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:44:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:44:04 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:47:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 14:47:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:29:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:29:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:30:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:30:05 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:32:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:32:31 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:34:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:34:00 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:34:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:34:40 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:35:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:35:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:36:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:36:33 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:35 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:40:57 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:50:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:50:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:50:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:50:39 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:51:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:51:21 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:55:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:55:59 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:56:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 15:56:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:04:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:04:27 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:07:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:07:56 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:12:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:12:20 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:13:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:13:52 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:14:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:14:16 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:14:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:14:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:15:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:15:26 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:15:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:15:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:26:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:26:58 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:51:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:51:07 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:52:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:52:53 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:52:53 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 16:52:56 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 16:54:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:54:13 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:54:15 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 16:54:16 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 16:54:18 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findOneEssay-----","level":"error"}
+{"message":"-----[error]: Can't find this essay.-----","level":"error"}
+{"message":"-----Thu Jan 21 2021 16:54:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 16:54:49 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:25 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:38 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:45 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Thu Jan 21 2021 18:06:51 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 14:41:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 14:41:09 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 14:41:29 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Field \"findOneEssay\" argument \"id\" of type \"String!\" is required, but it was not provided.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 14:44:21 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: undefined-----","level":"error"}
+{"message":"-----[error]: Field \"findOneEssay\" argument \"id\" of type \"String!\" is required, but it was not provided.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:14:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:14:15 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:14:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:14:32 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:14:38 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:14:43 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:14:53 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:15:09 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:18:54 GMT+0800 (China Standard Time)-----","level":"error"}
+{"message":"-----[path]: findEssay,0,content-----","level":"error"}
+{"message":"-----[error]: Cannot return null for non-nullable field Essay.content.-----","level":"error"}
+{"message":"-----Fri Jan 22 2021 15:21:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:21:17 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:21:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:21:23 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:31:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: Server ready at 5050","level":"info"}
+{"message":"-----Fri Jan 22 2021 15:31:54 GMT+0800 (China Standard Time)-----","level":"info"}
+{"message":"-----[info]: db connection open","level":"info"}

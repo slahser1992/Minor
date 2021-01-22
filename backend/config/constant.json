@@ -1,0 +1,5 @@
+{
+  "port": 5050,
+  "db_address": "mongodb://localhost:27018",
+  "secret": "bear_bear"
+}
