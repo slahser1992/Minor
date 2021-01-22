@@ -9,9 +9,23 @@ export const POST_ESSAY = gql`
 	}
 `;
 
-export const GET_ESSAY = gql`
+export const GET_ESSAYS = gql`
 	query findEssay {
 		findEssay {
+			_id
+			title
+			postTime
+			description
+			author {
+				name
+			}
+		}
+	}
+`;
+
+export const GET_ONE_ESSAY = gql`
+	query findOneEssay($id: String!) {
+		findOneEssay(id: $id) {
 			_id
 			title
 			content
@@ -21,4 +35,4 @@ export const GET_ESSAY = gql`
 			}
 		}
 	}
-`;
+`

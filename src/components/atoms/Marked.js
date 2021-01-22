@@ -10,10 +10,9 @@ hljs.registerLanguage('javascript', javascript);
 
 function Marked({ htmlStr }) {
 	const html = marked(htmlStr);
-
 	useEffect(() => {
 		document.querySelectorAll('pre code').forEach(block => {
-			console.log(block);
+			// console.log(block);
 			hljs.highlightBlock(block);
 		});
 	}, []);

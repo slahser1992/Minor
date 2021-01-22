@@ -15,15 +15,7 @@ module.exports = override(
 		test: /\.md$/,
 		use: [
 			{
-				loader: 'html-loader',
-			},
-			{
-				loader: 'markdown-loader',
-				options: {
-					gfm: true,
-					breaks: true,
-					renderer
-				}
+				loader: 'text-loader',
 			}
 		]
 	})

@@ -5,9 +5,8 @@ import { makeStyles } from '@material-ui/core/styles'
 
 import EssayCard from '@/components/Card';
 import Link from '@/components/atoms/Link';
-import { POST_ESSAY, GET_ESSAY } from '@/gql/essay';
-import { useMutation, useEssayStores, useQuery } from '@/hooks';
-import Button from '@/components/atoms/Button';
+import { GET_ESSAYS } from '@/gql/essay';
+import { useEssayStores, useQuery } from '@/hooks';
 
 const useStyles = makeStyles((theme) => ({
 	root: {
@@ -16,19 +15,11 @@ const useStyles = makeStyles((theme) => ({
 }));
 
 const Home = observer(() => {
-
 	const essayStore = useEssayStores();
 	const classes = useStyles();
 	
-	const [postEssay] = useMutation({
-		mutation: POST_ESSAY,
-		sucCallback: (param) => {
-			console.log(param);
-		}
-	});
-	
 	useQuery({
-		query: GET_ESSAY,
+		query: GET_ESSAYS,
 		sucCallback: (res) => essayStore.updateEssays(res),
 		options: {
 			hideSnackbar: true
@@ -46,18 +37,6 @@ const Home = observer(() => {
 					</Grid>
 				))}
 			</Grid>
-			<Button
-				onClick={
-					() => postEssay({
-						variables: {
-							essay: {
-								title: "abcd",
-								content: "abcd",
-							}
-						}
-					})
-				}
-			>Post Essay</Button>
 		</div>
 	);
 });

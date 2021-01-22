@@ -7,6 +7,8 @@ import CardContent from '@material-ui/core/CardContent';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography';
 
+import { format } from '@/utils/time';
+
 const useStyles = makeStyles((theme) => ({
 	root: {
 		maxWidth: 345,
@@ -20,7 +22,7 @@ const useStyles = makeStyles((theme) => ({
 	}
 }))
 
-function EssayCard({ title, content, postTime }) {
+function EssayCard({ title, content, postTime, description }) {
 	const classes = useStyles();
 	return (
 		<Card className={classes.root}>
@@ -34,7 +36,7 @@ function EssayCard({ title, content, postTime }) {
 					</Avatar>
 				}
 				title={title}
-				subheader={postTime}
+				subheader={format(postTime)}
 			/>
 			<CardMedia
 				className={classes.media}
@@ -43,7 +45,7 @@ function EssayCard({ title, content, postTime }) {
 			/>
 			<CardContent>
 				<Typography variant={"body2"} color={"textSecondary"} component={"p"}>
-					{content}
+					{description}
 				</Typography>
 			</CardContent>
 		</Card>

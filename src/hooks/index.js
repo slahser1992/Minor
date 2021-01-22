@@ -4,10 +4,11 @@ import { useSnackbar } from 'notistack';
 
 import { accountStoreContext, essayStoreContext } from '@/store';
 
-const useQuery = ({ query, sucCallback, errCallback, options = { hideSnackbar: false } }) => {
+const useQuery = ({ query, variables = {}, sucCallback, errCallback, options = { hideSnackbar: false }}) => {
 	const { enqueueSnackbar } = useSnackbar();
 	const { hideSnackbar } = options;
 	return useApolloQuery(query, {
+		variables,
 		onError: ({ graphQLErrors, networkError }) => {
 			if (!hideSnackbar) {
 				if (graphQLErrors)
